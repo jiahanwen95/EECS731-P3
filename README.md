@@ -3,6 +3,8 @@ EECS741P3
 
 Weekend Movie Trip
 
+This project uses k mean clustering to process data to generate a recommended list of selected movies
+
 Project Organization
 ------------
 
